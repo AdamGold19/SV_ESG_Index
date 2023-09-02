@@ -48,6 +48,6 @@ Contributions to this project are welcome; however, please note that access to t
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
 
 Thank you for exploring my ESG Index project repository. Enjoy exploring the code and visualizations!
