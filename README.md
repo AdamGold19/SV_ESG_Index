@@ -24,11 +24,11 @@ This repository contains the code and outputs from the ESG Index project underta
     
 ### ESG Visuals
 
-This directory contains visual outputs generated during the testing phase of our ESG scoring system using proprietary data from Semantic Visions. While the data itself is private and not accessible to the public, these visualizations provide insights into the ESG scores for various companies.
+This directory contains visual outputs generated during the testing phase of our ESG scoring system using proprietary data from Semantic Visions. While the data itself is private and not accessible to the public, these visualizations provide insights into the ESG scores for various companies and how we displayed our findings.
 
 ### Final Presentation
 
-We have included the final presentation that our team presented to Semantic Visions. This presentation showcases our work and provides an overview of the project's objectives and outcomes.
+We have included the final presentation that my team presented to Semantic Visions. This presentation showcases our work and provides an overview of the project's objectives and outcomes.
 
 ## Getting Started
 
@@ -39,7 +39,6 @@ To explore or replicate the code and visualizations, you can follow these steps:
 1. Clone this repository to your local machine using the following command:
 
 git clone https://github.com/AdamGold19/SV_ESG_Index.git
-
 
 2. Open and run the Jupyter Notebook files (ESGIndexElastic.ipynb and ESGIndexBigQuery.ipynb) using Jupyter Notebook or a compatible environment.
 
