@@ -36,15 +36,11 @@ Please note that the data used in this project is proprietary to Semantic Vision
 
 To explore or replicate the code and visualizations, you can follow these steps:
 
-1. Clone this repository to your local machine using the following command:
+1. Open and run the Jupyter Notebook files (ESGIndexElastic.ipynb and ESGIndexBigQuery.ipynb) using Jupyter Notebook or a compatible environment.
 
-git clone https://github.com/AdamGold19/SV_ESG_Index.git
+2. Explore the ESG visualizations in the "ESG Visuals" directory to gain insights into the ESG scores for various companies.
 
-2. Open and run the Jupyter Notebook files (ESGIndexElastic.ipynb and ESGIndexBigQuery.ipynb) using Jupyter Notebook or a compatible environment.
-
-3. Explore the ESG visualizations in the "ESG Visuals" directory to gain insights into the ESG scores for various companies.
-
-4. Review the final presentation to get an overview of the project's objectives and outcomes.
+3. Review the final presentation to get an overview of the project's objectives and outcomes.
 
 ## Contributing
 
