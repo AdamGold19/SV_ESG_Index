@@ -19,7 +19,7 @@ This repository contains the code and outputs from the ESG Index project underta
 2. **ESGIndexBigQuery.ipynb (the main code)**
    - This Jupyter Notebook is an enhanced version of the previous one and calculates company ESG scores using proprietary data from Semantic Visions via Big Query. It includes the following features:
      - A function-based approach, making it user-friendly by allowing users to input a company of choice.
-     - Generates a list of items, including overall ESG scores, scores for each ESG category, subcategory, sub-subcategory, bubble plots for all scores, and trend graphs for scores.
+     - Generates a list of items, including overall ESG scores, scores for each ESG category, subcategory, sub-subcategory, bubble plots for all scores, and trend graphs for scores. (check out ESG Visuals folder)
      - Code sections are clearly labeled using markdown for easy navigation.
     
 ### ESG Visuals
