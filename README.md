@@ -34,7 +34,7 @@ We have included the final presentation that my team presented to Semantic Visio
 
 Please note that the data used in this project is proprietary to Semantic Visions and not publicly accessible. While you can explore the code and visualizations in this repository, access to the underlying data is restricted to Semantic Visions.
 
-To explore or replicate the code and visualizations, you can follow these steps:
+To explore the code and visualizations, you can follow these steps:
 
 1. Open and run the Jupyter Notebook files (ESGIndexElastic.ipynb and ESGIndexBigQuery.ipynb) using Jupyter Notebook or a compatible environment.
 
