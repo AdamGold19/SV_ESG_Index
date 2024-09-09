@@ -32,4 +32,4 @@ I have included the final presentation that my team presented to Semantic Vision
 
 ## Thank You
 
-Thank you for exploring my ESG Index project repository. Enjoy exploring the code and visualizations!
+Thank you for exploring my ESG Index project repository. Enjoy reviewing the code and visualizations!
