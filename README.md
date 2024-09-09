@@ -30,24 +30,6 @@ This directory contains visual outputs generated during the testing phase of our
 
 I have included the final presentation that my team presented to Semantic Visions. This presentation showcases our work and provides an overview of the project's objectives and outcomes.
 
-## Getting Started
-
-Please note that the data used in this project is proprietary to Semantic Visions and not publicly accessible. While you can explore the code and visualizations in this repository, access to the underlying data is restricted to Semantic Visions.
-
-To explore the code and visualizations, you can follow these steps:
-
-1. Open and run the Jupyter Notebook files (ESGIndexElastic.ipynb and ESGIndexBigQuery.ipynb) using Jupyter Notebook or a compatible environment.
-
-2. Explore the ESG visualizations in the "ESG Visuals" directory to gain insights into the ESG scores for various companies.
-
-3. Review the final presentation to get an overview of the project's objectives and outcomes.
-
-## Contributing
-
-Contributions to this project are welcome; however, please note that access to the proprietary data used in this project is restricted to Semantic Visions.
-
-## License
-
-This project is licensed under the MIT License.
+## Thank You
 
 Thank you for exploring my ESG Index project repository. Enjoy exploring the code and visualizations!
