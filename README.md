@@ -28,7 +28,7 @@ This directory contains visual outputs generated during the testing phase of our
 
 ### Final Presentation
 
-We have included the final presentation that my team presented to Semantic Visions. This presentation showcases our work and provides an overview of the project's objectives and outcomes.
+I have included the final presentation that my team presented to Semantic Visions. This presentation showcases our work and provides an overview of the project's objectives and outcomes.
 
 ## Getting Started
 
